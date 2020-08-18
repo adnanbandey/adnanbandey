@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Profile Hits : [![HitCount](http://hits.dwyl.com/adnanbandey/adnanbandey.svg)](http://hits.dwyl.com/adnanbandey/adnanbandey)
 <!--
 **adnanbandey/adnanbandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
