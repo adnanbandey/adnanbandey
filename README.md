@@ -5,7 +5,7 @@ Profile Hits : [![HitCount](http://hits.dwyl.com/adnanbandey/adnanbandey.svg)](h
 **adnanbandey/adnanbandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working as a Data Analyst
+- 🔭 I’m currently working as a Senior Data Analyst
 - 🌱 I’m currently learning Data science
 - 👯 I’m looking to collaborate on interesting projects
 - 📫 How to reach me: https://in.linkedin.com/in/adnan-bandey-180363128
