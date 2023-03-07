@@ -8,6 +8,6 @@ Profile Hits : [![HitCount](http://hits.dwyl.com/adnanbandey/adnanbandey.svg)](h
 - 🔭 I’m currently working as a Senior Data Analyst
 - 🌱 I’m currently learning Data science/analytics
 - 👯 I’m looking to collaborate on interesting projects.
-- 📫 How to reach me: https://www.linkedin.com/in/adnanbandey/
+- 📫 How to reach me: adnan.bandey17@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play football whenever I'm not in front on my laptop working/learning :)
